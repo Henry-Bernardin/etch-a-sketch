@@ -13,7 +13,7 @@ function addDiv() {
   document.body.insertBefore(newDiv, currentDiv);
 }
 
-//loop it 15 times
+//loop it 14 times
 for (let i = 1; i < 15; i++) {
   addDiv();
 }
