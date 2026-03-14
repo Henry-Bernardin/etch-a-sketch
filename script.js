@@ -10,10 +10,12 @@ function addDiv() {
 
   //add the newly created element and its content into the DOM
   const currentDiv = document.getElementById("container");
-  document.body.insertBefore(newDiv, currentDiv);
+  currentDiv.appendChild(newDiv); 
 }
 
-//loop it 14 times
-for (let i = 1; i < 15; i++) {
+//loop it 16 times
+for (let i = 1; i < 17; i++) {
   addDiv();
 }
+
+
