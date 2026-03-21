@@ -13,8 +13,8 @@ function addDiv() {
   currentDiv.appendChild(newDiv); 
 }
 
-//loop it 16 times
-for (let i = 1; i < 17; i++) {
+//loop it 256 times
+for (let i = 1; i < 257; i++) {
   addDiv();
 }
 
