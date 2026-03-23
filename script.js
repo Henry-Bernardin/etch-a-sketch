@@ -11,10 +11,15 @@ function addDiv() {
   //add the newly created element and its content into the DOM
   const currentDiv = document.getElementById("container");
   currentDiv.appendChild(newDiv); 
+
+  newDiv.addEventListener("mouseenter", (event) => {
+    newDiv.style.backgroundColor = "#363838"; 
+  })
 }
 
 //loop it 256 times
 for (let i = 1; i < 257; i++) {
   addDiv();
 }
+
 
