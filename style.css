@@ -2,7 +2,7 @@
    display: flex;
    flex-direction: column;
    align-items: center;
-
+background-image: url(/images/etch-wallpaper-1800w.jpg);
  }
  
  #container {
