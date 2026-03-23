@@ -9,6 +9,7 @@
     display: flex;
     flex-wrap: wrap;
     width: 80vh;
+    border: 2rem solid rgb(185, 18, 25);
     
     
  }
@@ -16,11 +17,12 @@
  #container div {
     width: 6.25%;
     aspect-ratio: 1/1;
-    background-color: rgb(214, 137, 36);
+    background-color: rgb(202, 203, 205);
 }
 
 .tiny5-regular {
   font-family: "Tiny5", sans-serif;
   font-weight: 400;
   font-style: normal;
+  color: rgb(211,175,55);
 }
