@@ -1,3 +1,5 @@
+'use strict';
+
 const currentDiv = document.getElementById("container");
 const button = document.getElementById("reset"); 
 
