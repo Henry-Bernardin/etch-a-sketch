@@ -7,8 +7,8 @@
 
 ## 🔗 Links
 
-- Solution URL: [](https://github.com/Henry-Bernardin/etch-a-sketch)
-- Live Site URL: [](https://etch-a-sketch-henry.netlify.app/)
+- [Solution URL:](https://github.com/Henry-Bernardin/etch-a-sketch)
+- [Live Site URL:](https://etch-a-sketch-henry.netlify.app/)
 
 ## 🛠️ Built with
 
