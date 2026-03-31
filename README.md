@@ -3,7 +3,7 @@
 
 ## 📸 Screenshot
 
-![Etch-A-Sketch Screenshot](https://i.imgur.com/kmLT4yO.jpeg)
+![Screenshot](https://i.imgur.com/kmLT4yO.jpeg)
 
 ## 🔗 Links
 
