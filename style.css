@@ -8,7 +8,7 @@
  #container {
     display: flex;
     flex-wrap: wrap;
-    width: 80vh;
+    width: 80vw;
     border: 2rem solid rgb(185, 18, 25);
  }
  
